@@ -1,0 +1,8 @@
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+.vs/
+*.log
+.DS_Store
+
